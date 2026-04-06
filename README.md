@@ -1,16 +1,17 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
 
-<!--
-**guilhermefonseca400/guilhermefonseca400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <img src="code.jpg" alt="codigo">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <p>Sou desenvolvedor full stack e gosto de construir aplicações completas, desde a interface até o back-end. Curto transformar ideias em projetos funcionais, sempre buscando soluções simples, eficientes e bem organizadas.
+Trabalho com tecnologias como JavaScript, TypeScript e React no front-end, e Node.js no back-end, além de bancos de dados e integrações de APIs. Estou sempre aprendendo algo novo e tentando evoluir tanto no código quanto na forma de resolver problemas.
+🚀 Sempre em busca de novos desafios e oportunidades para crescer na área de tecnologia.
+</p>
+</body>
+</html>
